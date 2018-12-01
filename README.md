@@ -3,3 +3,14 @@ This is a tiny integration towards the Telldus API with a web client showing the
 
 ## NOTE
 This app was written a while ago and contains old dependencies such as jQuery and Ajax. It also doesn't use the latest ES7 syntax. It's also very very basic :)
+
+## Running the app
+
+Do the following steps:
+
+```
+npm install
+node index.js
+```
+
+And then navigate to `localhost:8080` in your browser.
